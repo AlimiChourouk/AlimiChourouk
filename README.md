@@ -1,5 +1,5 @@
 #  About Me:
-<br> I’m currently learning HTML CSS and JAVASCRIPT<br> Ask me about my projects<br> Fun fact is i like to learn
+<br> I’m currently learning C#<br> Ask me about my projects<br> Fun fact is i like to learn
 
 
 # 💻 Tech Stack:
