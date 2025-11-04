@@ -209,11 +209,7 @@ I'm a passionate **Full-Stack Web Developer** who loves building modern, scalabl
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlimiChourouk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9" alt="Contribution Graph" />
-</div>
 
 ---
 
