@@ -210,7 +210,6 @@ const alimi = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlimiChourouk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=AlimiChourouk&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=79c0ff&currStreakLabel=79c0ff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
