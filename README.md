@@ -25,35 +25,10 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🎯 About Me
-```javascript
-const alimi = {
-    pronouns: "He" | "Him",
-    location: "📍 Casablanca, Morocco 🇲🇦",
-    role: "Full-Stack Developer",
-    company: "Open to opportunities",
-    
-    code: {
-        frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-        backend: ["PHP", "Laravel", "Node.js", "Python"],
-        database: ["MySQL", "MongoDB"],
-        tools: ["Git", "Docker", "Figma", "VS Code"]
-    },
-    
-    currentFocus: "🎓 Mastering C# & .NET Core",
-    architecture: ["MVC", "REST API", "Microservices"],
-    
-    funFacts: [
-        "☕ Coffee-driven development",
-        "🌙 Night owl coder",
-        "📚 Learning addict",
-        "🎮 Gaming enthusiast"
-    ],
-    
-    challenge: "Building scalable applications that make a difference"
-};
-```
 
-<br clear="right"/>
+📍 Based in **Casablanca, Morocco** 🇲🇦
+
+I'm a passionate **Full-Stack Web Developer** who loves building modern, scalable applications. Currently expanding my backend expertise by learning **C#** and **.NET Core**. I thrive on solving complex problems and turning ideas into functional, elegant solutions.
 
 ### 🔥 What I'm Up To
 
@@ -63,6 +38,12 @@ const alimi = {
 - 💬 **Ask me about:** JavaScript, React, PHP, Laravel, Web Development
 - 📫 **How to reach me:** [votre-email@example.com](mailto:votre-email)
 - ⚡ **Fun fact:** I debug with `console.log()` and I'm not ashamed! 😄
+
+### 💡 Fun Facts
+
+☕ Coffee-driven development | 🌙 Night owl coder | 📚 Learning addict | 🎮 Gaming enthusiast
+
+<br clear="right"/>
 
 ---
 
@@ -210,6 +191,7 @@ const alimi = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlimiChourouk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AlimiChourouk&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=79c0ff&currStreakLabel=79c0ff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -223,6 +205,14 @@ const alimi = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlimiChourouk&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlimiChourouk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9" alt="Contribution Graph" />
 </div>
 
 ---
