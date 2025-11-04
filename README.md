@@ -1,3 +1,58 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full-Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
+<div align="center">
+  
+# 👨‍💻 Alimi Chourouk
+
+### 🚀 Full-Stack Web Developer | 💡 Problem Solver | 🎯 Tech Enthusiast
+
+</div>
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](votre-lien)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white)](votre-lien)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white)](mailto:votre-email)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logoColor=white)](votre-lien)
+[![Dev.to](https://img.shields.io/badge/📝_Dev.to-0A0A0A?style=for-the-badge&logoColor=white)](votre-lien)
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## 🎯 About Me
+```javascript
+const alimi = {
+    pronouns: "He" | "Him",
+    location: "📍 Casablanca, Morocco 🇲🇦",
+    role: "Full-Stack Developer",
+    company: "Open to opportunities",
+    
+    code: {
+        frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+        backend: ["PHP", "Laravel", "Node.js", "Python"],
+        database: ["MySQL", "MongoDB"],
+        tools: ["Git", "Docker", "Figma", "VS Code"]
+    },
+    
+    currentFocus: "🎓 Mastering C# & .NET Core",
+    architecture: ["MVC", "REST API", "Microservices"],
+    
+    funFacts: [
+        "☕ Coffee-driven development",
+        "🌙 Night owl coder",
+        "📚 Learning addict",
+        "🎮 Gaming enthusiast"
+    ],
+    
+    challenge: "Building scalable applications that make a difference"
+};
+```
+
 <br clear="right"/>
 
 ### 🔥 What I'm Up To
@@ -155,7 +210,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlimiChourouk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlimiChourouk&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AlimiChourouk&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 </div>
 
 <div align="center">
