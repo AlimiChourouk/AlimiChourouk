@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full-Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=180&section=header&text=Full-Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
@@ -209,13 +209,13 @@ const alimi = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlimiChourouk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=AlimiChourouk&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlimiChourouk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AlimiChourouk&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=79c0ff&currStreakLabel=79c0ff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimiChourouk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=10&hide=jupyter%20notebook,roff" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=AlimiChourouk&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Contribution Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimiChourouk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide=jupyter%20notebook,roff" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=AlimiChourouk&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="Contribution Stats" />
 </div>
 
 ---
@@ -223,7 +223,7 @@ const alimi = {
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlimiChourouk&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlimiChourouk&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -231,18 +231,7 @@ const alimi = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlimiChourouk&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎯 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlimiChourouk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9" alt="Contribution Graph" />
 </div>
 
 ---
@@ -251,8 +240,8 @@ const alimi = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlimiChourouk&repo=nom-projet-1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/AlimiChourouk/nom-projet-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlimiChourouk&repo=nom-projet-2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/AlimiChourouk/nom-projet-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlimiChourouk&repo=nom-projet-1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/AlimiChourouk/nom-projet-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlimiChourouk&repo=nom-projet-2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/AlimiChourouk/nom-projet-2)
 
 </div>
 
@@ -262,7 +251,7 @@ const alimi = {
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
 
 </div>
 
@@ -287,7 +276,7 @@ const alimi = {
   
 ### 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlimiChourouk&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=AlimiChourouk&style=for-the-badge&color=58a6ff)
 
 ### ⭐ If you like my work, give some ♥ by starring the repositories!
 
@@ -296,7 +285,7 @@ const alimi = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
 </div>
 
 <!-- 
