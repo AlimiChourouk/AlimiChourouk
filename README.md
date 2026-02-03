@@ -36,7 +36,7 @@ I'm a passionate **Full-Stack Web Developer** who loves building modern, scalabl
 - 🌱 **Learning:** C#, .NET Core, and Advanced System Design
 - 👯 **Looking to collaborate on:** Open source projects and innovative web solutions
 - 💬 **Ask me about:** JavaScript, React, PHP, Laravel, Web Development
-- 📫 **How to reach me:** [votre-email@example.com](mailto:votre-email)
+- 📫 **How to reach me:** [chouroukalimil@gmail.com](mailto:votre-email)
 - ⚡ **Fun fact:** I debug with `console.log()` and I'm not ashamed! 😄
 
 ### 💡 Fun Facts
